@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Himanshu Bhagwat</h1>
 
-<!--
-**himanshu3716/himanshu3716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Final Year B.Tech CSE Student | 💻 Full Stack Developer in Progress <br/>
+🚀 Passionate about AI/ML, Web Development & Problem Solving <br/>
+📍 Based in Nagpur, India
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently building: *AI-Based Smart Travel Planner*
+- 🌱 Learning: *React, Node.js, MongoDB, Python, Firebase*
+- 🎯 Goal: Become a *Full Stack Developer* with AI Integration
+- ✨ Fun fact: I enjoy solving logical riddles and designing smart UI flows
+
+---
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,git,github,firebase,mysql,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-bhagwat&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-bhagwat&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p>
+  <a href="mailto:himanshubhagwat2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/himanshu-bhagwat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Ongoing Projects
+
+- 🔧 *Smart Travel Planner App*
+- 📊 *College Feedback System (MERN Stack)*
+- 💬 *Mini Chat UI in React with static AI bot*
+
+---
+
+> 💡 “Code smart. Build fast. Grow daily.”  
+> Thanks for visiting my GitHub profile! 😊
