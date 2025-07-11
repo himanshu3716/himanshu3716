@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Bhagwat</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Rajesh Bhagwat</h1>
 
 <p align="center">
 🎓 Final Year B.Tech CSE Student | 💻 Full Stack Developer in Progress <br/>
