@@ -23,17 +23,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,git,github,firebase,mysql,vscode" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-bhagwat&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-bhagwat&theme=tokyonight" height="170" />
-</p>
-
----
-
 ## 🌍 Connect with Me
 
 <p>
